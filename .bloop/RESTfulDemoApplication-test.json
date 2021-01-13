@@ -1,0 +1,351 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "RESTfulDemoApplication-test",
+        "directory": "C:\\Users\\Micha\\Development\\AWebService\\RESTfulDemoApplication",
+        "workspaceDir": "C:\\Users\\Micha\\Development\\AWebService\\RESTfulDemoApplication",
+        "sources": [
+            
+        ],
+        "dependencies": [
+            "RESTfulDemoApplication"
+        ],
+        "classpath": [
+            "C:\\Users\\Micha\\Development\\AWebService\\RESTfulDemoApplication\\target\\test-classes",
+            "C:\\Users\\Micha\\Development\\AWebService\\RESTfulDemoApplication\\target\\classes",
+            "C:\\Users\\Micha\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\org\\jboss\\resteasy\\resteasy-jaxrs\\2.3.1.GA\\resteasy-jaxrs-2.3.1.GA.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\org\\jboss\\resteasy\\jaxrs-api\\2.3.1.GA\\jaxrs-api-2.3.1.GA.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\org\\scannotation\\scannotation\\1.0.3\\scannotation-1.0.3.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\javax\\annotation\\jsr250-api\\1.0\\jsr250-api-1.0.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\javax\\activation\\activation\\1.1\\activation-1.1.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\commons-httpclient\\commons-httpclient\\3.1\\commons-httpclient-3.1.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\commons-logging\\commons-logging\\1.0.4\\commons-logging-1.0.4.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\commons-codec\\commons-codec\\1.2\\commons-codec-1.2.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\org\\apache\\httpcomponents\\httpclient\\4.1.2\\httpclient-4.1.2.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\org\\apache\\httpcomponents\\httpcore\\4.1.2\\httpcore-4.1.2.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\net\\jcip\\jcip-annotations\\1.0\\jcip-annotations-1.0.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\net\\sf\\scannotation\\scannotation\\1.0.2\\scannotation-1.0.2.jar",
+            "C:\\Users\\Micha\\.m2\\repository\\javassist\\javassist\\3.6.0.GA\\javassist-3.6.0.GA.jar"
+        ],
+        "out": "C:\\Users\\Micha\\Development\\AWebService\\RESTfulDemoApplication\\target",
+        "classesDir": "C:\\Users\\Micha\\Development\\AWebService\\RESTfulDemoApplication\\target\\test-classes",
+        "resources": [
+            
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "0.0.0",
+            "options": [
+                
+            ],
+            "jars": [
+                
+            ],
+            "setup": {
+                "order": "java->scala",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                "-g",
+                "-encoding",
+                "UTF-8"
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework",
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    {
+                        "args": [
+                            "-v",
+                            "-a"
+                        ],
+                        "framework": {
+                            "names": [
+                                "com.novocode.junit.JUnitFramework"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\RedHat\\java-11-openjdk-11.0.8-2",
+                "options": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "junit",
+                    "name": "junit",
+                    "version": "3.8.1",
+                    "artifacts": [
+                        {
+                            "name": "junit",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar"
+                        },
+                        {
+                            "name": "junit",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\junit\\junit\\3.8.1\\junit-3.8.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "net.jcip",
+                    "name": "jcip-annotations",
+                    "version": "1.0",
+                    "artifacts": [
+                        {
+                            "name": "jcip-annotations",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\net\\jcip\\jcip-annotations\\1.0\\jcip-annotations-1.0.jar"
+                        },
+                        {
+                            "name": "jcip-annotations",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\net\\jcip\\jcip-annotations\\1.0\\jcip-annotations-1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "javax.activation",
+                    "name": "activation",
+                    "version": "1.1",
+                    "artifacts": [
+                        {
+                            "name": "activation",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\javax\\activation\\activation\\1.1\\activation-1.1.jar"
+                        },
+                        {
+                            "name": "activation",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\javax\\activation\\activation\\1.1\\activation-1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scannotation",
+                    "name": "scannotation",
+                    "version": "1.0.3",
+                    "artifacts": [
+                        {
+                            "name": "scannotation",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\scannotation\\scannotation\\1.0.3\\scannotation-1.0.3.jar"
+                        },
+                        {
+                            "name": "scannotation",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\scannotation\\scannotation\\1.0.3\\scannotation-1.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "commons-codec",
+                    "name": "commons-codec",
+                    "version": "1.2",
+                    "artifacts": [
+                        {
+                            "name": "commons-codec",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\commons-codec\\commons-codec\\1.2\\commons-codec-1.2.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "javassist",
+                    "name": "javassist",
+                    "version": "3.6.0.GA",
+                    "artifacts": [
+                        {
+                            "name": "javassist",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\javassist\\javassist\\3.6.0.GA\\javassist-3.6.0.GA.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.jboss.resteasy",
+                    "name": "resteasy-jaxrs",
+                    "version": "2.3.1.GA",
+                    "artifacts": [
+                        {
+                            "name": "resteasy-jaxrs",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\jboss\\resteasy\\resteasy-jaxrs\\2.3.1.GA\\resteasy-jaxrs-2.3.1.GA.jar"
+                        },
+                        {
+                            "name": "resteasy-jaxrs",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\jboss\\resteasy\\resteasy-jaxrs\\2.3.1.GA\\resteasy-jaxrs-2.3.1.GA-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "javax.annotation",
+                    "name": "jsr250-api",
+                    "version": "1.0",
+                    "artifacts": [
+                        {
+                            "name": "jsr250-api",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\javax\\annotation\\jsr250-api\\1.0\\jsr250-api-1.0.jar"
+                        },
+                        {
+                            "name": "jsr250-api",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\javax\\annotation\\jsr250-api\\1.0\\jsr250-api-1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "commons-httpclient",
+                    "name": "commons-httpclient",
+                    "version": "3.1",
+                    "artifacts": [
+                        {
+                            "name": "commons-httpclient",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\commons-httpclient\\commons-httpclient\\3.1\\commons-httpclient-3.1.jar"
+                        },
+                        {
+                            "name": "commons-httpclient",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\commons-httpclient\\commons-httpclient\\3.1\\commons-httpclient-3.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.apache.httpcomponents",
+                    "name": "httpcore",
+                    "version": "4.1.2",
+                    "artifacts": [
+                        {
+                            "name": "httpcore",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\apache\\httpcomponents\\httpcore\\4.1.2\\httpcore-4.1.2.jar"
+                        },
+                        {
+                            "name": "httpcore",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\apache\\httpcomponents\\httpcore\\4.1.2\\httpcore-4.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "net.sf.scannotation",
+                    "name": "scannotation",
+                    "version": "1.0.2",
+                    "artifacts": [
+                        {
+                            "name": "scannotation",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\net\\sf\\scannotation\\scannotation\\1.0.2\\scannotation-1.0.2.jar"
+                        },
+                        {
+                            "name": "scannotation",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\net\\sf\\scannotation\\scannotation\\1.0.2\\scannotation-1.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.apache.httpcomponents",
+                    "name": "httpclient",
+                    "version": "4.1.2",
+                    "artifacts": [
+                        {
+                            "name": "httpclient",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\apache\\httpcomponents\\httpclient\\4.1.2\\httpclient-4.1.2.jar"
+                        },
+                        {
+                            "name": "httpclient",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\apache\\httpcomponents\\httpclient\\4.1.2\\httpclient-4.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.jboss.resteasy",
+                    "name": "jaxrs-api",
+                    "version": "2.3.1.GA",
+                    "artifacts": [
+                        {
+                            "name": "jaxrs-api",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\jboss\\resteasy\\jaxrs-api\\2.3.1.GA\\jaxrs-api-2.3.1.GA.jar"
+                        },
+                        {
+                            "name": "jaxrs-api",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\org\\jboss\\resteasy\\jaxrs-api\\2.3.1.GA\\jaxrs-api-2.3.1.GA-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "commons-logging",
+                    "name": "commons-logging",
+                    "version": "1.0.4",
+                    "artifacts": [
+                        {
+                            "name": "commons-logging",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\commons-logging\\commons-logging\\1.0.4\\commons-logging-1.0.4.jar"
+                        },
+                        {
+                            "name": "commons-logging",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Micha\\.m2\\repository\\commons-logging\\commons-logging\\1.0.4\\commons-logging-1.0.4-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}

@@ -1,0 +1,165 @@
+2021.01.13 08:37:00 INFO  Started: Metals version 0.9.8 in workspace 'C:\Users\Micha\Development\AWebService\RESTfulDemoApplication' for client vscode.
+2021.01.13 08:37:01 INFO  time: initialize in 1.38s
+2021.01.13 08:37:04 WARN  Build server is not auto-connectable.
+2021.01.13 08:37:13 INFO  running 'C:\Program Files\RedHat\java-11-openjdk-11.0.8-2\bin\java -Dfile.encoding=UTF-8 -Dmaven.multiModuleProjectDirectory=C:\Users\Micha\Development\AWebService\RESTfulDemoApplication -Dmaven.home=C:\Users\Micha\AppData\Local\Temp\metals1167963735776430775 -jar C:\Users\Micha\AppData\Local\Temp\metals1167963735776430775\maven-wrapper.jar ch.epfl.scala:maven-bloop_2.12:1.4.6-15-209c2a5c:bloopInstall -DdownloadSources=true'
+2021.01.13 08:37:17 INFO  [INFO] Scanning for projects...
+2021.01.13 08:37:17 INFO  [WARNING] 
+2021.01.13 08:37:17 INFO  [WARNING] Some problems were encountered while building the effective model for com.howtodoinjava:RESTfulDemoApplication:war:1.0-SNAPSHOT
+2021.01.13 08:37:17 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 37, column 15
+2021.01.13 08:37:17 INFO  [WARNING] 
+2021.01.13 08:37:17 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.13 08:37:17 INFO  [WARNING] 
+2021.01.13 08:37:17 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.13 08:37:17 INFO  [WARNING] 
+2021.01.13 08:37:17 INFO  [INFO] 
+2021.01.13 08:37:17 INFO  [INFO] --------------< com.howtodoinjava:RESTfulDemoApplication >--------------
+2021.01.13 08:37:17 INFO  [INFO] Building RESTfulDemoApplication Maven Webapp 1.0-SNAPSHOT
+2021.01.13 08:37:17 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.13 08:37:17 INFO  [INFO] 
+2021.01.13 08:37:17 INFO  [INFO] --- maven-bloop_2.12:1.4.6-15-209c2a5c:bloopInstall (default-cli) @ RESTfulDemoApplication ---
+2021.01.13 08:37:23 INFO  [INFO] Using empty launcher: no run setup for RESTfulDemoApplication Maven Webapp.
+2021.01.13 08:37:25 INFO  [INFO] Scanning for projects...
+2021.01.13 08:37:25 INFO  [WARNING] 
+2021.01.13 08:37:25 INFO  [WARNING] Some problems were encountered while building the effective model for com.howtodoinjava:RESTfulDemoApplication:war:1.0-SNAPSHOT
+2021.01.13 08:37:25 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 37, column 15
+2021.01.13 08:37:25 INFO  [WARNING] 
+2021.01.13 08:37:25 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.13 08:37:25 INFO  [WARNING] 
+2021.01.13 08:37:25 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.13 08:37:25 INFO  [WARNING] 
+2021.01.13 08:37:25 INFO  [INFO] 
+2021.01.13 08:37:25 INFO  [INFO] --------------< com.howtodoinjava:RESTfulDemoApplication >--------------
+2021.01.13 08:37:25 INFO  [INFO] Building RESTfulDemoApplication Maven Webapp 1.0-SNAPSHOT
+2021.01.13 08:37:25 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.13 08:37:25 INFO  [INFO] 
+2021.01.13 08:37:25 INFO  [INFO] --- maven-dependency-plugin:2.8:sources (default-cli) @ RESTfulDemoApplication ---
+2021.01.13 08:37:34 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/org/jboss/resteasy/jaxrs-api/2.3.1.GA/jaxrs-api-2.3.1.GA-sources.jar
+2021.01.13 08:37:34 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/jaxrs-api/2.3.1.GA/jaxrs-api-2.3.1.GA-sources.jar
+2021.01.13 08:37:35 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/jaxrs-api/2.3.1.GA/jaxrs-api-2.3.1.GA-sources.jar (71 kB at 319 kB/s)
+2021.01.13 08:37:35 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/javassist/javassist/3.6.0.GA/javassist-3.6.0.GA-sources.jar
+2021.01.13 08:37:35 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/javassist/javassist/3.6.0.GA/javassist-3.6.0.GA-sources.jar
+2021.01.13 08:37:35 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0-sources.jar
+2021.01.13 08:37:36 INFO  [INFO] Downloaded from jboss: http://repository.jboss.org/maven2/net/jcip/jcip-annotations/1.0/jcip-annotations-1.0-sources.jar (5.0 kB at 8.4 kB/s)
+2021.01.13 08:37:36 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/org/scannotation/scannotation/1.0.3/scannotation-1.0.3-sources.jar
+2021.01.13 08:37:36 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/scannotation/scannotation/1.0.3/scannotation-1.0.3-sources.jar
+2021.01.13 08:37:36 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/scannotation/scannotation/1.0.3/scannotation-1.0.3-sources.jar (11 kB at 71 kB/s)
+2021.01.13 08:37:36 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar
+2021.01.13 08:37:36 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar
+2021.01.13 08:37:36 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0-sources.jar (13 kB at 175 kB/s)
+2021.01.13 08:37:36 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/net/sf/scannotation/scannotation/1.0.2/scannotation-1.0.2-sources.jar
+2021.01.13 08:37:38 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/net/sf/scannotation/scannotation/1.0.2/scannotation-1.0.2-sources.jar
+2021.01.13 08:37:38 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/net/sf/scannotation/scannotation/1.0.2/scannotation-1.0.2-sources.jar (11 kB at 113 kB/s)
+2021.01.13 08:37:38 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar
+2021.01.13 08:37:38 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar
+2021.01.13 08:37:38 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar (439 kB at 1.5 MB/s)
+2021.01.13 08:37:38 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/org/jboss/resteasy/resteasy-jaxrs/2.3.1.GA/resteasy-jaxrs-2.3.1.GA-sources.jar
+2021.01.13 08:37:39 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxrs/2.3.1.GA/resteasy-jaxrs-2.3.1.GA-sources.jar
+2021.01.13 08:37:39 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxrs/2.3.1.GA/resteasy-jaxrs-2.3.1.GA-sources.jar (345 kB at 1.4 MB/s)
+2021.01.13 08:37:39 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2-sources.jar
+2021.01.13 08:37:39 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2-sources.jar
+2021.01.13 08:37:39 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2-sources.jar
+2021.01.13 08:37:40 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2-sources.jar
+2021.01.13 08:37:40 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.1.2/httpcore-4.1.2-sources.jar (275 kB at 956 kB/s)
+2021.01.13 08:37:40 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4-sources.jar
+2021.01.13 08:37:40 INFO  [INFO] Downloaded from jboss: http://repository.jboss.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4-sources.jar (35 kB at 51 kB/s)
+2021.01.13 08:37:40 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/javax/activation/activation/1.1/activation-1.1-sources.jar
+2021.01.13 08:37:42 INFO  [INFO] Downloaded from jboss: http://repository.jboss.org/maven2/javax/activation/activation/1.1/activation-1.1-sources.jar (63 kB at 146 kB/s)
+2021.01.13 08:37:42 INFO  [INFO] Downloading from jboss: http://repository.jboss.org/maven2/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2-sources.jar
+2021.01.13 08:37:42 INFO  [INFO] Downloading from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2-sources.jar
+2021.01.13 08:37:42 INFO  [INFO] Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.1.2/httpclient-4.1.2-sources.jar (452 kB at 1.7 MB/s)
+2021.01.13 08:37:42 INFO  [INFO] 
+2021.01.13 08:37:42 INFO  [INFO] The following files have been resolved:
+2021.01.13 08:37:42 INFO  [INFO]    org.jboss.resteasy:jaxrs-api:jar:sources:2.3.1.GA:compile
+2021.01.13 08:37:42 INFO  [INFO]    org.apache.httpcomponents:httpcore:jar:sources:4.1.2:compile
+2021.01.13 08:37:42 INFO  [INFO]    commons-logging:commons-logging:jar:sources:1.0.4:compile
+2021.01.13 08:37:42 INFO  [INFO]    net.jcip:jcip-annotations:jar:sources:1.0:compile
+2021.01.13 08:37:42 INFO  [INFO]    javax.activation:activation:jar:sources:1.1:compile
+2021.01.13 08:37:42 INFO  [INFO]    org.scannotation:scannotation:jar:sources:1.0.3:compile
+2021.01.13 08:37:42 INFO  [INFO]    org.apache.httpcomponents:httpclient:jar:sources:4.1.2:compile
+2021.01.13 08:37:42 INFO  [INFO]    javax.annotation:jsr250-api:jar:sources:1.0:compile
+2021.01.13 08:37:42 INFO  [INFO]    net.sf.scannotation:scannotation:jar:sources:1.0.2:compile
+2021.01.13 08:37:42 INFO  [INFO]    commons-httpclient:commons-httpclient:jar:sources:3.1:compile
+2021.01.13 08:37:42 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxrs:jar:sources:2.3.1.GA:compile
+2021.01.13 08:37:42 INFO  [INFO]    junit:junit:jar:sources:3.8.1:test
+2021.01.13 08:37:42 INFO  [INFO] 
+2021.01.13 08:37:42 INFO  [INFO] The following files have NOT been resolved:
+2021.01.13 08:37:42 INFO  [INFO]    javassist:javassist:jar:sources:3.6.0.GA:compile
+2021.01.13 08:37:42 INFO  [INFO]    commons-codec:commons-codec:jar:sources:1.2:compile
+2021.01.13 08:37:42 INFO  [INFO] 
+2021.01.13 08:37:42 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:42 INFO  [INFO] BUILD SUCCESS
+2021.01.13 08:37:42 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:42 INFO  [INFO] Total time: 17.720 s
+2021.01.13 08:37:42 INFO  [INFO] Finished at: 2021-01-13T08:37:42-05:00
+2021.01.13 08:37:42 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:42 INFO  [WARNING] you don't define org.scala-lang:scala-library as a dependency of the project
+2021.01.13 08:37:42 INFO  [INFO] Generated .bloop\RESTfulDemoApplication.json
+2021.01.13 08:37:44 INFO  [INFO] Scanning for projects...
+2021.01.13 08:37:44 INFO  [WARNING] 
+2021.01.13 08:37:44 INFO  [WARNING] Some problems were encountered while building the effective model for com.howtodoinjava:RESTfulDemoApplication:war:1.0-SNAPSHOT
+2021.01.13 08:37:44 INFO  [WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-war-plugin is missing. @ line 37, column 15
+2021.01.13 08:37:44 INFO  [WARNING] 
+2021.01.13 08:37:44 INFO  [WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+2021.01.13 08:37:44 INFO  [WARNING] 
+2021.01.13 08:37:44 INFO  [WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+2021.01.13 08:37:44 INFO  [WARNING] 
+2021.01.13 08:37:44 INFO  [INFO] 
+2021.01.13 08:37:44 INFO  [INFO] --------------< com.howtodoinjava:RESTfulDemoApplication >--------------
+2021.01.13 08:37:44 INFO  [INFO] Building RESTfulDemoApplication Maven Webapp 1.0-SNAPSHOT
+2021.01.13 08:37:44 INFO  [INFO] --------------------------------[ war ]---------------------------------
+2021.01.13 08:37:44 INFO  [INFO] 
+2021.01.13 08:37:44 INFO  [INFO] --- maven-dependency-plugin:2.8:sources (default-cli) @ RESTfulDemoApplication ---
+2021.01.13 08:37:45 INFO  [INFO] 
+2021.01.13 08:37:45 INFO  [INFO] The following files have been resolved:
+2021.01.13 08:37:45 INFO  [INFO]    org.jboss.resteasy:jaxrs-api:jar:sources:2.3.1.GA:compile
+2021.01.13 08:37:45 INFO  [INFO]    org.apache.httpcomponents:httpcore:jar:sources:4.1.2:compile
+2021.01.13 08:37:45 INFO  [INFO]    commons-logging:commons-logging:jar:sources:1.0.4:compile
+2021.01.13 08:37:45 INFO  [INFO]    net.jcip:jcip-annotations:jar:sources:1.0:compile
+2021.01.13 08:37:45 INFO  [INFO]    javax.activation:activation:jar:sources:1.1:compile
+2021.01.13 08:37:45 INFO  [INFO]    org.scannotation:scannotation:jar:sources:1.0.3:compile
+2021.01.13 08:37:45 INFO  [INFO]    org.apache.httpcomponents:httpclient:jar:sources:4.1.2:compile
+2021.01.13 08:37:45 INFO  [INFO]    javax.annotation:jsr250-api:jar:sources:1.0:compile
+2021.01.13 08:37:45 INFO  [INFO]    net.sf.scannotation:scannotation:jar:sources:1.0.2:compile
+2021.01.13 08:37:45 INFO  [INFO]    commons-httpclient:commons-httpclient:jar:sources:3.1:compile
+2021.01.13 08:37:45 INFO  [INFO]    org.jboss.resteasy:resteasy-jaxrs:jar:sources:2.3.1.GA:compile
+2021.01.13 08:37:45 INFO  [INFO]    junit:junit:jar:sources:3.8.1:test
+2021.01.13 08:37:45 INFO  [INFO] 
+2021.01.13 08:37:45 INFO  [INFO] The following files have NOT been resolved:
+2021.01.13 08:37:45 INFO  [INFO]    javassist:javassist:jar:sources:3.6.0.GA:compile
+2021.01.13 08:37:45 INFO  [INFO]    commons-codec:commons-codec:jar:sources:1.2:compile
+2021.01.13 08:37:45 INFO  [INFO] 
+2021.01.13 08:37:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:45 INFO  [INFO] BUILD SUCCESS
+2021.01.13 08:37:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:45 INFO  [INFO] Total time: 1.212 s
+2021.01.13 08:37:45 INFO  [INFO] Finished at: 2021-01-13T08:37:45-05:00
+2021.01.13 08:37:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:45 INFO  [INFO] Generated .bloop\RESTfulDemoApplication-test.json
+2021.01.13 08:37:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:45 INFO  [INFO] BUILD SUCCESS
+2021.01.13 08:37:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:45 INFO  [INFO] Total time: 27.980 s
+2021.01.13 08:37:45 INFO  [INFO] Finished at: 2021-01-13T08:37:45-05:00
+2021.01.13 08:37:45 INFO  [INFO] ------------------------------------------------------------------------
+2021.01.13 08:37:45 INFO  mvn bloopInstall exit: 0
+2021.01.13 08:37:45 INFO  time: ran 'mvn bloopInstall' in 32s
+2021.01.13 08:37:45 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 39291'...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\Micha\Development\AWebService\RESTfulDemoApplication\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\Micha\Development\AWebService\RESTfulDemoApplication\.bloop\RESTfulDemoApplication.json'
+[0m[32m[D][0m Loading project from 'c:\Users\Micha\Development\AWebService\RESTfulDemoApplication\.bloop\RESTfulDemoApplication-test.json'
+[0m[32m[D][0m Missing analysis file for project 'RESTfulDemoApplication-test'
+[0m[32m[D][0m Missing analysis file for project 'RESTfulDemoApplication'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:39291...
+The server is listening for incoming connections at tcp://127.0.0.1:39291...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.13 08:37:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Micha\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2021.01.13 08:37:56 INFO  time: connected to build server in 10s
+2021.01.13 08:37:56 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.13 08:37:57 INFO  time: imported build in 1.03s
+2021.01.13 08:38:04 INFO  time: indexed workspace in 7.6s
